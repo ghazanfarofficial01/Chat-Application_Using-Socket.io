@@ -1,5 +1,5 @@
 {
-  "name": "Chat-Application-using-spcket.io",
+  "name": "Chat-Application",
   "version": "1.0.0",
   "description": "A simple group chat built using Node.js and Socket.io",
   "main": "index.js",
